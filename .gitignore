@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+arquivos/*.bin
+resultados/results.jsonl
+resultados/estatisticas.csv
+resultados/graficos/*.png
+*.pdf
