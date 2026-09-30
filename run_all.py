@@ -71,7 +71,7 @@ def main():
                     subprocess.run(cmd, check=True)
 
     print("\nBATERIA CONCLUIDA.")
-    print("Agora execute: python make_report.py")
+    print("Agora execute: python gerar_estatisticas.py")
 
 
 if __name__ == "__main__":
